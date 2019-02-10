@@ -6,12 +6,6 @@ date: 2018-07-06 13:40:09 +0000
 # In Vim use `:r! date -u +"%F %T %z"`
 ---
 
-<a class="github-ribbon" href="{{ site.github.repository_url }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png" alt="Fork me on GitHub"></a>
-
-# Proof of Hardware
-
-![](/assets/poh-logo-256.png?raw=true)
-
 ### {{ site.description | default: site.github.project_tagline }}
 
 Bitcoin mining is currently too expensive for an individual to join. However, the field of blockchain software is still in its infancy. Without a question, hardware will be used to accelerate computation around blockchain developments and cryptocurrencies.
@@ -80,14 +74,6 @@ Here are our best practices:
 - Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
 - Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
 - WeChat: Ask in Telegram or via e-mai for invite.
-
-## Contributors
-
-- [Jon Phillips](http://rejon.org), @rejon
-- [Qin Fengling](http://qinfengling.io), @qinfengling
-- [Clément Renaud](http://clementrenaud.com) @clemsos
-- [Christopher Adams](https://christopheradams.io) @christopheradams
-- Add yourself :)
 
 ## Sponsors
 
