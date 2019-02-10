@@ -5,4 +5,4 @@ To run this repo locally if you [setup github pages to run locally](https://help
 
  bundle exec jekyll serve
 
-Please visit [poex.io](https://shop.poex.io) for more info.
+Please visit [poex.io](http://fullnode.poex.io/) for more info.
