@@ -1,6 +1,6 @@
 ---
 # we will misuse date to be the date the guide updated
-date: 2018-07-06 13:40:09 +0000
+date: 2019-02-11 13:40:09 +0000
 
 # Update page modified by changing the date.
 # In Vim use `:r! date -u +"%F %T %z"`
@@ -34,17 +34,20 @@ For example:
 
 3. __Block Explorer__: uses full blockchain database.
 
-4. __Hardware wallet__: only use part of the wallet.
+4. __wallet__: only use part of the wallet.
 
 The more components used, the more complexity is added.
 
 If you can't wait to try, the following are best practice guides:
 
-- [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
+
 - [Setup a Bitcoin Fullnode](/guide/setup-bitcoin-fullnode)
-- [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 - [Hello World for Fullnode](/guide/fullnode-helloworld)
 - [Your first cryptocurrency transaction without real coins](/guide/testnet-guide.md)
+
+- [Setup an Ethereum Miner](/guide/setup-ethereum-miner)
+- [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
+
 
 ### IPFS
 
@@ -63,23 +66,12 @@ Here are our best practices:
 - [Cryptocurrency](/survey/cryptocurrency)
 - [Books](/survey/books)
 
-## Events
-
-- Currently we are planning a summertime Proof of Hardware summit in Shenzhen.
-- Stay tuned here for more details.
 
 ## Contact
 
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-- Telegram: [https://t.me/proofofhardware](https://t.me/proofofhardware)
-- Twitter: [https://twitter.com/proofofhardware](https://twitter.com/proofofhardware) (news & for public announcements)
+- Telegram: 
+- Twitter: [https://twitter.com/poexio](https://twitter.com/poexio) (news & for public announcements)
 - WeChat: Ask in Telegram or via e-mai for invite.
-
-## Sponsors
-
-- [POEX](https://poex.io)
-- [Proof of Existence](https://proofofexistence.com)
-- Contact to be a sponsor <a href="mailto:{{ site.email }}">{{ site.email }}</a>  :)
-
 
 {% include footer_meta.md mod_date=page.date %}
