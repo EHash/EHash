@@ -49,15 +49,15 @@ If you can't wait to try, the following are best practice guides:
 - [Setup an Ethereum Fullnode](/guide/setup-ethereum-fullnode)
 
 
-### IPFS
+### Pool
 
-IPFS is a [distributed file system](https://en.wikipedia.org/wiki/Clustered_file_system#Distributed_file_systems), not the blockchain.
+### Stratum
 
-If you want to know more about instances of distributed file system, there are lots of information available through [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_systems#Distributed_file_systems).
+### Miner
 
-Here are our best practices:
+### CGminer
 
-- [Setup an IPFS Node](/guide/setup-ipfs-node)
+### ASIC
 
 ## Surveys
 
@@ -71,7 +71,6 @@ Here are our best practices:
 
 - <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 - Telegram: 
-- Twitter: [https://twitter.com/poexio](https://twitter.com/poexio) (news & for public announcements)
 - WeChat: Ask in Telegram or via e-mai for invite.
 
 {% include footer_meta.md mod_date=page.date %}
