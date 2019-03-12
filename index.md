@@ -15,7 +15,11 @@ We (that meaning and could include YOU) made this website to be a group editable
 Please add your knowledge to these guides, and see you at a future event in Shenzhen :)
 
 
-## Guides
+
+## Cost cause centralization
+## ASIC always make software run faster
+## ASIC make cryptos more security and effciency
+
 
 ### Full Node
 
