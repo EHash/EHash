@@ -2,7 +2,7 @@
 
 ## ASIC always make software run faster
 
---
+
 
 ## <a href="https://github.com/EHash/Open-Hardware-Canaan-A851-A3210M">Open Hardware: Bitcoin Miner Canaan A851</a>
 
