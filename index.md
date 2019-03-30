@@ -20,6 +20,5 @@
 ## <a href="https://github.com/openwrt/openwrt">OpenWrt</a>
 
 ## Contact
-- <a href="https://twitter.com/poexio">Twitter</a>
 - <a href="https://t.me/EHashPublic">Telegram</a>
-- <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+- WeChat: Ask in Telegram for invite
