@@ -19,6 +19,7 @@
 
 ## <a href="https://github.com/openwrt/openwrt">OpenWrt</a>
 
-## Contact
-- <a href="https://t.me/EHashPublic">Telegram</a>
+## <a href="https://t.me/EHashPublic">Telegram</a>
 - WeChat: Ask in Telegram for invite
+
+## <a href="http://wiki.ehash.org">More About EHash</a>
