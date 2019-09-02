@@ -14,7 +14,7 @@
 
 ### <a href="https://github.com/EHash/Avalon-USB2IIC-Converter-3">AUC3 firmware</a>
 
-### <a href="https://github.com/Canaan-Creative/MM">MM firmware</a>
+### <a href="https://github.com/EHash/MMX">MM firmware with Extension</a>
 
 ### <a href="https://github.com/ckolivas/cgminer">CGMiner</a>
 
